@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Brian M. Edwards",
+    "age": 51,
+    "profession": "driver",
+    "country": "USA",
+    "phone": "+998989989989"
+  },
+  {
+    "id": 2,
+    "name": "Jeffery D. England",
+    "age": 63,
+    "profession": "teacher",
+    "country": "England",
+    "phone": "+998991234567"
+  },
+  {
+    "id": 3,
+    "name": "Georgiana M. Lang",
+    "age": 66,
+    "profession": "fisher",
+    "country": "Ireland",
+    "phone": "+998989989989"
+  },
+  {
+    "id": 4,
+    "name": "Charlotte P. Nichols",
+    "age": 19,
+    "profession": "student",
+    "country": "France",
+    "phone": "+998989989989"
+  }
+]
